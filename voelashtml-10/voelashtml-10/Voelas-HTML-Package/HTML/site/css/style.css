@@ -5008,7 +5008,7 @@ textarea.form-input {
 	margin-left: auto;
 	margin-right: auto;
 	padding: 20px 20px 25px;
-	background-color: #ffffff;
+	background-color: #15162b;
 }
 
 .speaker-img {
@@ -5141,8 +5141,8 @@ textarea.form-input {
 	transform: translateY(0);
 }
 .section-lg1{
-	
-	background-image: url("images/bg-i.jpg");
+	background-color:#15162b;
+	background-image: url(images/bg-i.jpg);
 }
 
 .speaker-classic-title, .context-dark .speaker-classic-title {
